@@ -1,8 +1,8 @@
 * { margin: 0; padding: 0; }
 body { 
     font: 16px Helvetica, Sans-Serif; 
-    line-height: 24px;
-    background: url(images/noise.jpg); 
+    line-height: 24px; 
+    background: url(images/bg.jpg);
 }
 
 .clear { 
@@ -12,8 +12,8 @@ body {
 #page-wrap { 
     width: 800px; 
     margin: 40px auto 60px; 
-    
-}
+}   
+ 
 
 #pic { 
     float: right; 
@@ -80,6 +80,6 @@ dt {
 dd { width: 600px; float: right; }
 dd.clear { float: none; margin: 0; height: 15px; }
 
-.tel {
-    color: blue;
-}
+/* .background {
+
+} */
